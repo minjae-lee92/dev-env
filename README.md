@@ -2,6 +2,7 @@
 
 ### Download Zsh
 via Homebrew
+
 `brew installg zsh`
 
 `chsh- -s /usr/local/bin/zsh`
