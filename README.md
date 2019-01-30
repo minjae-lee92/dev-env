@@ -1,4 +1,4 @@
-#Setting up dev-env#
+Setting up dev-env
 
 Download:
 `git clone --recursive https://github.com/minjae-lee92/dev-env`
