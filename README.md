@@ -10,7 +10,7 @@ via Homebrew
 ### Download 
 `git clone --recursive https://github.com/minjae-lee92/dev-env`
 
-##@ Relocate .vim and .zsh to homedir
+### Relocate .vim and .zsh to homedir
 
 `cd dev-env`
 
