@@ -1,10 +1,10 @@
-***Setting up dev-env***
+# Setting up dev-env
 
-Download
+## Download
 
 `git clone --recursive https://github.com/minjae-lee92/dev-env`
 
-Relocate .vim and .zsh to homedir
+## Relocate .vim and .zsh to homedir
 
 `cd dev-env`
 
@@ -12,7 +12,7 @@ Relocate .vim and .zsh to homedir
 
 `mv .vim /..`
 
-Install Vim Plugins
+## Install Vim Plugins
 
 `cd .vim`
 
@@ -20,7 +20,7 @@ Install Vim Plugins
 
 `PlugInstall`
 
-Source Zsh
+## Source Zsh
 
 `vim zshrc`
 
